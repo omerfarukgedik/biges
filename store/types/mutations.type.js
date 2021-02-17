@@ -1,0 +1,5 @@
+export const SET_CONTACTS = 'SET_CONTACTS'
+export const SET_ADD_CONTACT = 'SET_ADD_CONTACT'
+export const SET_DEL_CONTACT = 'SET_DEL_CONTACT'
+
+export const SET_USERS = 'SET_USERS'

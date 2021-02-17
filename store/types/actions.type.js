@@ -1,0 +1,5 @@
+export const GET_CONTACTS = 'GET_CONTACTS'
+export const GET_ADD_CONTACT = 'GET_ADD_CONTACT'
+export const GET_DEL_CONTACT = 'GET_DEL_CONTACT'
+
+export const GET_USERS = 'GET_USERS'

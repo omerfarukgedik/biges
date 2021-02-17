@@ -1,0 +1,22 @@
+{
+  "name": "biges",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/toast": "^3.3.1",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "nuxt-i18n": "^6.20.0",
+    "nuxt-vue-select": "^0.1.4"
+  },
+  "devDependencies": {}
+}
